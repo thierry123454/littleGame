@@ -1,7 +1,10 @@
 body {
-    background-color: #999;
+    background-image: url(http://www.userlogos.org/files/backgrounds/soundofemotion/gray_gradient_holograph.jpg);
 }
 
 #canvas {
     background-color: #fff;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
